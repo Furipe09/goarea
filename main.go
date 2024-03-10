@@ -1,5 +1,4 @@
 package goarea
-	main
 
 import "math"
 
