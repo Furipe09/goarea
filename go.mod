@@ -1,1 +1,1 @@
-module example.com/goarea
+module furipe09/goarea
