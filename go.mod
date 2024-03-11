@@ -1,1 +1,1 @@
-module furipe09/goarea
+module github.com/furipe09/goarea
